@@ -1,0 +1,6 @@
+# Ignore temporary/system files
+.DS_Store
+Thumbs.db
+
+# Keep placeholder notes local if needed
+images/*.tmp
